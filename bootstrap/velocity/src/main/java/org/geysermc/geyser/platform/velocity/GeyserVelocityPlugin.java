@@ -25,6 +25,8 @@
 
 package org.geysermc.geyser.platform.velocity;
 
+// Trigger GitHub Actions build for the Velocity jar artifact.
+
 import com.google.inject.Inject;
 import com.velocitypowered.api.command.CommandSource;
 import com.velocitypowered.api.event.Subscribe;
